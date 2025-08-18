@@ -15,6 +15,43 @@ I’m an **Automation Quality Engineer with 10+ years of experience** in testing
 I’m passionate about **Gen AI in testing**, exploring tools that integrate AI into QA workflows for smarter, faster automation.  
 
 ---
+## 💼 Professional Experience  
+
+**Specialist QA Engineer / SDET** – *LTIMindtree Limited (Client: Nomura Services), Mumbai, India*  
+📅 *Aug 2021 – Apr 2025*  
+- Architected scalable test automation frameworks with Selenium, Playwright, and Cucumber (BDD).  
+- Integrated automation with CI/CD (Jenkins, Git, Maven) cutting deployment cycle time by **30%**.  
+- Led QA teams, mentored 3 engineers, and aligned testing strategy with business goals.  
+- Automated **95% regression tests** with AccelQ, boosting release velocity and test coverage.  
+- Implemented testing in **Docker & Kubernetes** environments; leveraged **AWS EC2, S3, CloudWatch**.  
+
+---
+
+**SDET Engineer** – *Morgan Stanley Advantage Services, Mumbai, India*  
+📅 *Jan 2020 – Aug 2021*  
+- Built a **Selenium + TestNG + Cucumber** automation framework, improving test coverage by **70%**.  
+- Performed **API testing with Karate & SQL validation**, achieving **100% backend coverage**.  
+- Configured **Allure & Extent Reports** integrated with Jenkins, reducing reporting turnaround by **50%**.  
+- Conducted **performance testing** with JMeter simulating 1,000+ users.  
+
+---
+
+**Senior QA Engineer** – *TIAA GBS India, Mumbai, India*  
+📅 *Aug 2017 – Jan 2020*  
+- Executed **manual + automation testing**, achieving **95% test coverage**.  
+- Validated **Kafka message queues**, improving event-driven architecture test coverage by **45%**.  
+- Designed RTM (Requirement Traceability Matrix), ensuring **90%+ requirement coverage** per sprint.  
+
+---
+
+**QA Analyst** – *iNautix Technologies / BNY Mellon, Pune, India*  
+📅 *Aug 2014 – Aug 2017*  
+- Performed **functional and regression testing** for critical banking apps.  
+- Refactored Selenium automation packs, improving **stability & reducing defects by 30%**.  
+- Wrote complex **SQL queries** for backend validation across multiple databases.  
+
+---
+
 
 ## 🛠️ Tech Stack & Skills  
 
@@ -83,43 +120,6 @@ A **containerized test execution pipeline** with Selenium, Docker, and Kubernete
 - Runs tests in **Docker containers**  
 - Deploys on **Kubernetes cluster**  
 - Integrates with **Jenkins & GitHub Actions**  
-
----
-
-## 💼 Professional Experience  
-
-**Specialist QA Engineer / SDET** – *LTIMindtree Limited (Client: Nomura Services), Mumbai, India*  
-📅 *Aug 2021 – Apr 2025*  
-- Architected scalable test automation frameworks with Selenium, Playwright, and Cucumber (BDD).  
-- Integrated automation with CI/CD (Jenkins, Git, Maven) cutting deployment cycle time by **30%**.  
-- Led QA teams, mentored 3 engineers, and aligned testing strategy with business goals.  
-- Automated **95% regression tests** with AccelQ, boosting release velocity and test coverage.  
-- Implemented testing in **Docker & Kubernetes** environments; leveraged **AWS EC2, S3, CloudWatch**.  
-
----
-
-**SDET Engineer** – *Morgan Stanley Advantage Services, Mumbai, India*  
-📅 *Jan 2020 – Aug 2021*  
-- Built a **Selenium + TestNG + Cucumber** automation framework, improving test coverage by **70%**.  
-- Performed **API testing with Karate & SQL validation**, achieving **100% backend coverage**.  
-- Configured **Allure & Extent Reports** integrated with Jenkins, reducing reporting turnaround by **50%**.  
-- Conducted **performance testing** with JMeter simulating 1,000+ users.  
-
----
-
-**Senior QA Engineer** – *TIAA GBS India, Mumbai, India*  
-📅 *Aug 2017 – Jan 2020*  
-- Executed **manual + automation testing**, achieving **95% test coverage**.  
-- Validated **Kafka message queues**, improving event-driven architecture test coverage by **45%**.  
-- Designed RTM (Requirement Traceability Matrix), ensuring **90%+ requirement coverage** per sprint.  
-
----
-
-**QA Analyst** – *iNautix Technologies / BNY Mellon, Pune, India*  
-📅 *Aug 2014 – Aug 2017*  
-- Performed **functional and regression testing** for critical banking apps.  
-- Refactored Selenium automation packs, improving **stability & reducing defects by 30%**.  
-- Wrote complex **SQL queries** for backend validation across multiple databases.  
 
 ---
 
