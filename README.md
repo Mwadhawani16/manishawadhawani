@@ -1,5 +1,4 @@
 # manishawadhawani.github.io
-My Portfolio
 
 # 👋 Hi, I’m Manisha Wadhawani  
 
